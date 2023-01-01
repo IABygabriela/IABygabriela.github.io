@@ -3,11 +3,11 @@ import Head from "next/head";
 import Script from "next/script";
 
 export const Seo = () => {
-  const pageTitle = "BlogNLP";
+  const pageTitle = "IAByGabriela";
   const pageDesc =
-    "BlogNLP is a free AI blog writing tool that helps you break your writer's block to create original content in a fraction of a time. Powered by Open AI's GPT-3.";
-  const canonicalUrl = "https://blognlp.com/";
-  const twitterHandle = "@britoszn";
+    "Is a free AI blog writing tool that helps you break your writer's block to create original content in a fraction of a time. Powered by Open AI's GPT-3.";
+  const canonicalUrl = "https://google.com/";
+  const twitterHandle = "@IAByGabriela";
 
   return (
     <Head>
